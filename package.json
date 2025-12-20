@@ -25,10 +25,3 @@
     "vite": "^6.2.0"
   }
 }
-
-{
-  "scripts": {
-    "build": "vite build",
-    "deploy": "gh-pages -d dist"
-  }
-}
